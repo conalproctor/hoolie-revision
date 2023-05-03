@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hoolie - Revision Website</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Hoolie</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Subjects</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<section>
+			<h2>Welcome to Hoolie</h2>
+			<p>We offer a wide range of revision resources to help you succeed in your studies. Our website is designed to make learning fun and interactive, with quizzes, videos, and interactive exercises.</p>
+		</section>
+
+		<section>
+			<h2>Popular Subjects</h2>
+			<ul>
+				<li><a href="#">Maths</a></li>
+				<li><a href="#">English</a></li>
+				<li><a href="#">Science</a></li>
+				<li><a href="#">History</a></li>
+				<li><a href="#">Geography</a></li>
+			</ul>
+		</section>
+	</main>
+
+	<footer>
+		<p>&copy; 2023 Hoolie. All rights reserved.</p>
+	</footer>
+</body>
+</html>
